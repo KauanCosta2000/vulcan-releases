@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "Comunidade e dúvidas sobre o Vulcan"
+    url: "https://github.com/KauanCosta2000/vulcan-releases/discussions"
+    about: "Converse sobre uso e aprendizado. Discussões também são públicas."
